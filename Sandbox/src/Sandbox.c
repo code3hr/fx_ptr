@@ -1,6 +1,6 @@
 #include<stdlib.h>
 
-__declspec(dllimport) void fx_print(void);
+#include"fx_ptr.h"
 
 int main()
 {

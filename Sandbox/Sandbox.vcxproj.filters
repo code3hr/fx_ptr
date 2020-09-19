@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\Application.c">
+    <ClCompile Include="src\Sandbox.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
